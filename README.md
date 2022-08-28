@@ -11,6 +11,9 @@
   <img align="center" alt="Emison-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 </div>
+  <div></div>&nbsp;&nbsp;&nbsp;
+
+
   <div align="center"> 
 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
